@@ -2,3 +2,4 @@
 composer.json
 vendor
 logs
+app/views/cache

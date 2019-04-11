@@ -1,5 +1,4 @@
 .idea
 composer.json
 vendor
-app/views/cache/*
 logs
